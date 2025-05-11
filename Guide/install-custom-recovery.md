@@ -5,7 +5,7 @@
 - [Odin V. 3.13.1](https://dl.sammobile.com/Odin3-v3.13.1.zip)
 - [Samsung USB Driver](https://samfw.com/Odin/SAMSUNG_USB_Driver_for_Mobile_Phones.zip)
 - [no-verity-opt-encrypt.zip](https://web.archive.org/web/20180212160648/https://build.nethunter.com/android-tools/no-verity-opt-encrypt/no-verity-opt-encrypt-6.0.zip)
-- [RMM Bypass v3.zip](https://github.com/MattTheTekie/A8-GSI-vendor-dumpster-A530F/blob/master/Files/RMM_Bypass_v3_corsicanu.zip)
+- [RMM Bypass v3.zip](Files/RMM_Bypass_v3_corsicanu.zip)
 - [twrp-3.3.1-0-jackpotlte.img.tar](https://eu.dl.twrp.me/jackpotlte/twrp-3.3.1-0-jackpotlte.img.tar.html)
 > Install Samsung USB Driver and extract files on Odin V3.13.1.zip on your computer. 
 
