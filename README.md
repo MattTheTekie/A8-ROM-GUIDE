@@ -1,5 +1,5 @@
 # Samsung A8 2018
-Guide, tools, and files needed to treble Samsung A8 2018.
+Guide, tools, and files needed to install GSI ROM's on the Samsung A8 2018.
 
 ## Treble Guide
 1. [How to install custom recovery](Guide/install-custom-recovery.md)
