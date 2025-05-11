@@ -1,5 +1,14 @@
-Just saving treble files for samsung A8 2018 that were almost lost in time. Had to netstalk for few hours to dig up this gem of A8 patches.
+# Samsung A8 2018
+Guide, tools, and files needed to treble Samsung A8 2018.
 
-Dont ask me what are they for - i dont know. I only needed precious Vendor_Dumpster-V1.zip and GSI_Fix_boot.zip
+## Treble Guide
+1. [How to install custom recovery](https://github.com/yoshiumikuni/samsung-a8-treble-project/blob/main/Guide/install-custom-recovery.md)
+2. [How to treble our device](https://github.com/yoshiumikuni/samsung-a8-treble-project/blob/main/Guide/install-treble.md)
+3. [GSI ROMs](https://github.com/yoshiumikuni/samsung-a8-treble-project/blob/main/Guide/install-gsi-rom.md)
 
-And I hate broken links really do.
+## Post-install
+1. [How to install Magisk & MicroG](https://github.com/yoshiumikuni/samsung-a8-treble-project/blob/main/Guide/install-magisk-microg.md)
+2. [List of FOSS Apps](https://github.com/offa/android-foss)
+
+Click [this](https://github.com/yoshiumikuni/samsung-a8-treble-project/blob/main/Files/README.md) to download required files.
+
