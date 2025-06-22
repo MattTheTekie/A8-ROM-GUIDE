@@ -1,9 +1,9 @@
 # How to Treble Samsung A8 2018
 
 1. Download required files:
-- [A530W TrebleCreator.zip](Files/TrebleCreator-A530W.zip)
-- [A530F TrebleCreator.zip](Files/TrebleCreator-A530F.zip)
-- [Vendor-Quack_V.2.6.zip](Files/vendor_quack)
+- [A530W TrebleCreator.zip](../Files/TrebleCreator-A530W.zip)
+- [A530F TrebleCreator.zip](../Files/TrebleCreator-A530F.zip)
+- [Vendor-Quack_V.2.6.zip](../Files/vendor_quack)
 - Download both parts and extract the zip from the archive. Do not extract the zip file after unzipping the archive.
 - [TWRP-jackpotlte-Treble.img](https://www.androidfilehost.com/?fid=11410963190603911425)
 
